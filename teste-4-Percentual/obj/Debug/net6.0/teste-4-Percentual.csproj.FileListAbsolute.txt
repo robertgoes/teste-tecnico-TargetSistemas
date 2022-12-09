@@ -1,0 +1,15 @@
+C:\Users\rober\OneDrive\Área de Trabalho\teste-tecnico\teste-4-Percentual\obj\Debug\net6.0\teste-4-Percentual.csproj.AssemblyReference.cache
+C:\Users\rober\OneDrive\Área de Trabalho\teste-tecnico\teste-4-Percentual\obj\Debug\net6.0\teste-4-Percentual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\OneDrive\Área de Trabalho\teste-tecnico\teste-4-Percentual\obj\Debug\net6.0\teste-4-Percentual.AssemblyInfoInputs.cache
+C:\Users\rober\OneDrive\Área de Trabalho\teste-tecnico\teste-4-Percentual\obj\Debug\net6.0\teste-4-Percentual.AssemblyInfo.cs
+C:\Users\rober\OneDrive\Área de Trabalho\teste-tecnico\teste-4-Percentual\obj\Debug\net6.0\teste-4-Percentual.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Área de Trabalho\teste-tecnico\teste-4-Percentual\bin\Debug\net6.0\teste-4-Percentual.exe
+C:\Users\rober\OneDrive\Área de Trabalho\teste-tecnico\teste-4-Percentual\bin\Debug\net6.0\teste-4-Percentual.deps.json
+C:\Users\rober\OneDrive\Área de Trabalho\teste-tecnico\teste-4-Percentual\bin\Debug\net6.0\teste-4-Percentual.runtimeconfig.json
+C:\Users\rober\OneDrive\Área de Trabalho\teste-tecnico\teste-4-Percentual\bin\Debug\net6.0\teste-4-Percentual.dll
+C:\Users\rober\OneDrive\Área de Trabalho\teste-tecnico\teste-4-Percentual\bin\Debug\net6.0\teste-4-Percentual.pdb
+C:\Users\rober\OneDrive\Área de Trabalho\teste-tecnico\teste-4-Percentual\obj\Debug\net6.0\teste-4-Percentual.dll
+C:\Users\rober\OneDrive\Área de Trabalho\teste-tecnico\teste-4-Percentual\obj\Debug\net6.0\refint\teste-4-Percentual.dll
+C:\Users\rober\OneDrive\Área de Trabalho\teste-tecnico\teste-4-Percentual\obj\Debug\net6.0\teste-4-Percentual.pdb
+C:\Users\rober\OneDrive\Área de Trabalho\teste-tecnico\teste-4-Percentual\obj\Debug\net6.0\teste-4-Percentual.genruntimeconfig.cache
+C:\Users\rober\OneDrive\Área de Trabalho\teste-tecnico\teste-4-Percentual\obj\Debug\net6.0\ref\teste-4-Percentual.dll

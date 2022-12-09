@@ -1,0 +1,15 @@
+C:\Users\rober\OneDrive\Área de Trabalho\teste-tecnico\teste-5-InverterString\obj\Debug\net6.0\teste-5-InverterString.csproj.AssemblyReference.cache
+C:\Users\rober\OneDrive\Área de Trabalho\teste-tecnico\teste-5-InverterString\obj\Debug\net6.0\teste-5-InverterString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\OneDrive\Área de Trabalho\teste-tecnico\teste-5-InverterString\obj\Debug\net6.0\teste-5-InverterString.AssemblyInfoInputs.cache
+C:\Users\rober\OneDrive\Área de Trabalho\teste-tecnico\teste-5-InverterString\obj\Debug\net6.0\teste-5-InverterString.AssemblyInfo.cs
+C:\Users\rober\OneDrive\Área de Trabalho\teste-tecnico\teste-5-InverterString\obj\Debug\net6.0\teste-5-InverterString.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Área de Trabalho\teste-tecnico\teste-5-InverterString\bin\Debug\net6.0\teste-5-InverterString.exe
+C:\Users\rober\OneDrive\Área de Trabalho\teste-tecnico\teste-5-InverterString\bin\Debug\net6.0\teste-5-InverterString.deps.json
+C:\Users\rober\OneDrive\Área de Trabalho\teste-tecnico\teste-5-InverterString\bin\Debug\net6.0\teste-5-InverterString.runtimeconfig.json
+C:\Users\rober\OneDrive\Área de Trabalho\teste-tecnico\teste-5-InverterString\bin\Debug\net6.0\teste-5-InverterString.dll
+C:\Users\rober\OneDrive\Área de Trabalho\teste-tecnico\teste-5-InverterString\bin\Debug\net6.0\teste-5-InverterString.pdb
+C:\Users\rober\OneDrive\Área de Trabalho\teste-tecnico\teste-5-InverterString\obj\Debug\net6.0\teste-5-InverterString.dll
+C:\Users\rober\OneDrive\Área de Trabalho\teste-tecnico\teste-5-InverterString\obj\Debug\net6.0\refint\teste-5-InverterString.dll
+C:\Users\rober\OneDrive\Área de Trabalho\teste-tecnico\teste-5-InverterString\obj\Debug\net6.0\teste-5-InverterString.pdb
+C:\Users\rober\OneDrive\Área de Trabalho\teste-tecnico\teste-5-InverterString\obj\Debug\net6.0\teste-5-InverterString.genruntimeconfig.cache
+C:\Users\rober\OneDrive\Área de Trabalho\teste-tecnico\teste-5-InverterString\obj\Debug\net6.0\ref\teste-5-InverterString.dll

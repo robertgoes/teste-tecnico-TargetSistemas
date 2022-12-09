@@ -1,0 +1,17 @@
+C:\Users\rober\OneDrive\Área de Trabalho\teste-tecnico\teste-3-Faturamento\obj\Debug\net6.0\teste-3-Faturamento.csproj.AssemblyReference.cache
+C:\Users\rober\OneDrive\Área de Trabalho\teste-tecnico\teste-3-Faturamento\obj\Debug\net6.0\teste-3-Faturamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\OneDrive\Área de Trabalho\teste-tecnico\teste-3-Faturamento\obj\Debug\net6.0\teste-3-Faturamento.AssemblyInfoInputs.cache
+C:\Users\rober\OneDrive\Área de Trabalho\teste-tecnico\teste-3-Faturamento\obj\Debug\net6.0\teste-3-Faturamento.AssemblyInfo.cs
+C:\Users\rober\OneDrive\Área de Trabalho\teste-tecnico\teste-3-Faturamento\obj\Debug\net6.0\teste-3-Faturamento.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Área de Trabalho\teste-tecnico\teste-3-Faturamento\bin\Debug\net6.0\teste-3-Faturamento.exe
+C:\Users\rober\OneDrive\Área de Trabalho\teste-tecnico\teste-3-Faturamento\bin\Debug\net6.0\teste-3-Faturamento.deps.json
+C:\Users\rober\OneDrive\Área de Trabalho\teste-tecnico\teste-3-Faturamento\bin\Debug\net6.0\teste-3-Faturamento.runtimeconfig.json
+C:\Users\rober\OneDrive\Área de Trabalho\teste-tecnico\teste-3-Faturamento\bin\Debug\net6.0\teste-3-Faturamento.dll
+C:\Users\rober\OneDrive\Área de Trabalho\teste-tecnico\teste-3-Faturamento\bin\Debug\net6.0\teste-3-Faturamento.pdb
+C:\Users\rober\OneDrive\Área de Trabalho\teste-tecnico\teste-3-Faturamento\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\rober\OneDrive\Área de Trabalho\teste-tecnico\teste-3-Faturamento\obj\Debug\net6.0\teste-3-Faturamento.csproj.CopyComplete
+C:\Users\rober\OneDrive\Área de Trabalho\teste-tecnico\teste-3-Faturamento\obj\Debug\net6.0\teste-3-Faturamento.dll
+C:\Users\rober\OneDrive\Área de Trabalho\teste-tecnico\teste-3-Faturamento\obj\Debug\net6.0\refint\teste-3-Faturamento.dll
+C:\Users\rober\OneDrive\Área de Trabalho\teste-tecnico\teste-3-Faturamento\obj\Debug\net6.0\teste-3-Faturamento.pdb
+C:\Users\rober\OneDrive\Área de Trabalho\teste-tecnico\teste-3-Faturamento\obj\Debug\net6.0\teste-3-Faturamento.genruntimeconfig.cache
+C:\Users\rober\OneDrive\Área de Trabalho\teste-tecnico\teste-3-Faturamento\obj\Debug\net6.0\ref\teste-3-Faturamento.dll

@@ -1,0 +1,15 @@
+C:\Users\rober\OneDrive\Área de Trabalho\teste-tecnico\teste-2-Fibonacci\bin\Debug\net6.0\teste-2-Fibonacci.exe
+C:\Users\rober\OneDrive\Área de Trabalho\teste-tecnico\teste-2-Fibonacci\bin\Debug\net6.0\teste-2-Fibonacci.deps.json
+C:\Users\rober\OneDrive\Área de Trabalho\teste-tecnico\teste-2-Fibonacci\bin\Debug\net6.0\teste-2-Fibonacci.runtimeconfig.json
+C:\Users\rober\OneDrive\Área de Trabalho\teste-tecnico\teste-2-Fibonacci\bin\Debug\net6.0\teste-2-Fibonacci.dll
+C:\Users\rober\OneDrive\Área de Trabalho\teste-tecnico\teste-2-Fibonacci\bin\Debug\net6.0\teste-2-Fibonacci.pdb
+C:\Users\rober\OneDrive\Área de Trabalho\teste-tecnico\teste-2-Fibonacci\obj\Debug\net6.0\teste-2-Fibonacci.csproj.AssemblyReference.cache
+C:\Users\rober\OneDrive\Área de Trabalho\teste-tecnico\teste-2-Fibonacci\obj\Debug\net6.0\teste-2-Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\OneDrive\Área de Trabalho\teste-tecnico\teste-2-Fibonacci\obj\Debug\net6.0\teste-2-Fibonacci.AssemblyInfoInputs.cache
+C:\Users\rober\OneDrive\Área de Trabalho\teste-tecnico\teste-2-Fibonacci\obj\Debug\net6.0\teste-2-Fibonacci.AssemblyInfo.cs
+C:\Users\rober\OneDrive\Área de Trabalho\teste-tecnico\teste-2-Fibonacci\obj\Debug\net6.0\teste-2-Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Área de Trabalho\teste-tecnico\teste-2-Fibonacci\obj\Debug\net6.0\teste-2-Fibonacci.dll
+C:\Users\rober\OneDrive\Área de Trabalho\teste-tecnico\teste-2-Fibonacci\obj\Debug\net6.0\refint\teste-2-Fibonacci.dll
+C:\Users\rober\OneDrive\Área de Trabalho\teste-tecnico\teste-2-Fibonacci\obj\Debug\net6.0\teste-2-Fibonacci.pdb
+C:\Users\rober\OneDrive\Área de Trabalho\teste-tecnico\teste-2-Fibonacci\obj\Debug\net6.0\teste-2-Fibonacci.genruntimeconfig.cache
+C:\Users\rober\OneDrive\Área de Trabalho\teste-tecnico\teste-2-Fibonacci\obj\Debug\net6.0\ref\teste-2-Fibonacci.dll
